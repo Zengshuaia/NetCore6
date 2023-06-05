@@ -7493,19 +7493,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\86188\\.nuget\\packages\\": {}
+    "C:\\Users\\zcb27\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\86188\\Desktop\\新建文件夹 (2)\\NetCore6\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "D:\\Projects\\NetCore6\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\86188\\Desktop\\新建文件夹 (2)\\NetCore6\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-      "packagesPath": "C:\\Users\\86188\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\86188\\Desktop\\新建文件夹 (2)\\NetCore6\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "projectPath": "D:\\Projects\\NetCore6\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "packagesPath": "C:\\Users\\zcb27\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\NetCore6\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\86188\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zcb27\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7513,7 +7518,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://nuget.cdn.azure.cn/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -7569,7 +7575,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
